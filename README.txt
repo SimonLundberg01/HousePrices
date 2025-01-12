@@ -34,3 +34,4 @@ The following libraries are required for running the code:
 You can install the required libraries using `pip`:
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
+To run the file. run the model.py file.
